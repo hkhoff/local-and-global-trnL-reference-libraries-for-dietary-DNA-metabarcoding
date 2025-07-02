@@ -1,7 +1,7 @@
 # local-and-global-trnL-reference-libraries-for-dietary-DNA-metabarcoding
 This repository provides comprehensive trnL-P6 reference libraries (global ENA sequences and local data for Yellowstone National Park) for use in dietary DNA metabarcoding, updated approximately every six months. Users who would like to skip the steps to generate reference libraries can download these files for immediate use. For users who would like to generate more current or customized libraries themselves, code pipelines are also provided.
 
-**Instructions:**
+# **Instructions:**
 
 _For users interested to download files for immediate use, we provide the following resources:_
 
