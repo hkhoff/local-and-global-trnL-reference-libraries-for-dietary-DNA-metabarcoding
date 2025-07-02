@@ -28,6 +28,7 @@ b) Creating a local _trn_L-P6 reference library ('obitools_step1_global_referenc
 _Steps 1-2 require the following python packages:_
 
 cutadapt
+
 obitools
 
 We use these as interactive notebooks for our analyses; steps can be run on a high-performance cluster or a local computer; we have made comments in each notebook to describe the appropriate file paths at each step. We use RMarkdown files with the intention of having users run code in chunks and understand outputs at each step.
