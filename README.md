@@ -26,6 +26,7 @@ b) Creating a local _trn_L-P6 reference library ('obitools_step1_global_referenc
   3) Use ecoPCR to simulate amplification and build a reference database based on putatively amplified barcodes together with their recorded taxonomic information
 
 _Steps 1-2 require the following python packages:_
+
 cutadapt
 obitools
 
