@@ -6,6 +6,7 @@ This repository provides comprehensive trnL-P6 reference libraries (global ENA s
 ## For users interested to download files for immediate use, we provide the following resources:
 
 a) A global library (titled 'PLN_global_library_YYYYMMDD'), which was created using all trnL-P6 sequences available from the European Nucleotide Archive (ENA) in the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI). This file was created using the code pipeline provided for building global libraries ('obitools_step1_global_reference_library_YYYY.Rmd') and can be used to assign taxonomic information to plant sequences detected in herbivore diets.
+
 b) A local library for Yellowstone National Park (titled 'YNP_local_library_YYYYMMDD'), created using unique trnL-P6 sequences from the 'Plants of Yellowstone' dataset developed in the Kartzinel Lab at Brown University (https://www.kartzinellab.com) published on the Barcode of Life Datasystems (most recent release: https://portal.boldsystems.org/recordset/DS-YNPBPR3). 
 
 ## For users interested to generate their own local or global reference libraries, we provide the following code:
