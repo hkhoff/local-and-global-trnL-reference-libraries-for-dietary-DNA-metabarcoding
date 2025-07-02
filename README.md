@@ -2,6 +2,7 @@
 This repository provides comprehensive trnL-P6 reference libraries (global ENA sequences and local data for Yellowstone National Park) for use in dietary DNA metabarcoding, updated approximately every six months. Users who would like to skip the steps to generate reference libraries can download these files for immediate use. For users who would like to generate more current or customized libraries themselves, code pipelines are also provided.
 
 **Instructions:**
+
 _For users interested to download files for immediate use, we provide the following resources:_
 a) A global library (titled 'PLN_global_library_YYYYMMDD'), which was created using all trnL-P6 sequences available from the European Nucleotide Archive (ENA) in the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI). This file was created using the code pipeline provided for building global libraries ('obitools_step1_global_reference_library_YYYY.Rmd') and can be used to assign taxonomic information to plant sequences detected in herbivore diets.
 b) A local library for Yellowstone National Park (titled 'YNP_local_library_YYYYMMDD'), created using unique trnL-P6 sequences from the 'Plants of Yellowstone' dataset developed in the Kartzinel Lab at Brown University (https://www.kartzinellab.com) published on the Barcode of Life Datasystems (most recent release: https://portal.boldsystems.org/recordset/DS-YNPBPR3). 
